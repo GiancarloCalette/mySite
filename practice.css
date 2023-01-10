@@ -1,0 +1,34 @@
+ul,ol{
+    margin-left:20px;
+    width:50%;
+    margin: 10px;
+}
+
+ul.first-list,ol.first-list{
+    background-color:rgb(39, 39, 39);
+}
+
+ul.second-list{
+    background-color:rgb(177, 174, 174);
+}
+
+ul.first-list li{
+    color:rgb(237, 213, 30);
+    background-color: rgb(93, 93, 93);
+    margin: 10px;
+    padding: 5px;
+}
+
+ol.first-list li{
+    color: rgb(56, 6, 103);
+    background-color: rgb(202, 200, 200);
+    margin: 10px;
+    padding: 5px;
+}
+
+ul.second-list li{
+    color:rgb(232, 77, 11);
+    background-color: rgb(34, 33, 33);
+    margin: 10px;
+    padding: 5px;
+}
